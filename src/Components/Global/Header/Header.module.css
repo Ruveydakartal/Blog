@@ -1,0 +1,21 @@
+.title{
+    color: pink;
+}
+
+.container{
+    display: flex;
+    width: 97%;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav{
+    margin-right: 5rem;
+}
+
+.navEl{
+    margin: 1rem;
+    color: purple;
+
+}

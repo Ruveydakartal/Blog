@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "BARCELONA 2023| Wat ik de eerste 72 uur heb gedaan",
+        "date": "2023-03-18",
+        "intro": "In deze blog kan je lezen hoe ik barcelona heb ervaren in de eerste 72 uur. Ik heb een aantal dingen gedaan die ik graag met jullie wil delen.",
+        "description": "Hallo allemaal en welkom bij mijn Barcelona blog. In dit artikel ga ik jullie vertellen hoe ik mijn eerste dagen heb gespendeerd in deze bijzonder mooie stad. Ik en mijn vriendin Aleyna zijn geland in de middag in het luchthaven El prat. Gelukkig had het hostel waar we verbleven vervoer voor ons geregeld waardoor we snel op onze bestemming waren.  De eerste dag hadden we niet echt beseft hoe ver ons hostel gelegen was van het centrum en hebben we alles te voet gedaan, wat goed was want we hebben veel dingen onderweg gezien. Het eerste dat ik doe in een nieuwe stad is de omgeving verkennen. Dus we hebben gestapt in La Rambla en de tussenstraatjes. Ik vond dit persoonlijk de leukste dag. We hebben deze dag 28 000 stappen gezet. Dag Twee hebben we het havengebied verkent. We zijn naar het aquarium gegaan en de shoppingcenter maremagnum doorlopen. Uiteindelijk hebben we ook wat gezeten bij het water en het mooie uitzicht bekeken. Aantal stappen: 20 000. Dag drie hebben we de straten van de museums ontdekt. We hebben onder andere het Moco museum, het Picasso museum en een horrormuseum gezien. We zijn ook gestapt naar de Arc de Triomf. We probeerden zoveel de historische gebouwen te vermijden omdat we dit op andere dagen hadden gepland maar de Arc was in de buurt. Aantal stappen: 22 000. We hebben met opzet de meest toeristische plaatsen vermeden maar konden deze zeker erbij doen. Mijn conclusie is dat 3 dagen in Barcelona het ideaalste is. Het is niet zo een grote stad maar zeker de moeite eens waard. ",
+        "cover":"../images/haai.jpg",
+        "album":{
+            "image1":"../images/aqua.jpg",
+            "image2":"../images/barca.jpg",
+            "image3":"../images/hoed.jpg",
+            "image4":"../images/hond.jpg",
+            "image5":"../images/kunst.jpg"
+        }
+        
+    },
+    {
+        "id": 2,
+        "title": "BARCELONA 2023| Hoe mijn reis was in combinatie met school",
+        "date": "2023-03-21",
+        "intro": "Hier kan je lezen hoe ik Barcelona heb ervaren in combinatie met school",
+        "description":"In deze blog kan je lezen hoe mijn reis was in combinatie met school. Dinsdag was het aankomst moment en hebben we onze spullen afgezet. We hadden alle historische gebouwen voor deze dag bewaard omdat het dichter was bij het hostel. We hebben de Sagrada Familia bezocht. Waar niet 1 keer maar twee keer vogels op ons hebben gekakt. Daarnaast hebben we ook casa milla en casa battlo bezocht. We hebben een uitgebreide wandeling gemaakt met de klas. Maar de main event was het OFFF festival waar we naar belangrijke sprekers konden luisteren en konden deelnemen aan workshops. ",
+        "cover":"../images/sagrada.jpg",
+        "album":{
+            "image1":"../images/licht.jpg",
+            "image2":"../images/moco.jpg",
+            "image3":"../images/place.jpg",
+            "image4":"../images/sefora.jpg",
+            "image5":"../images/sign.jpg"
+        }
+        
+    },
+    {
+        "id": 3,
+        "title": "BARCELONA 2023| Wat ik allemaal heb gegeten in Barcelona",
+        "date": "2023-03-18",
+        "intro": "Ben je benieuwd wat ik allemaal heb gegeten in Barcelona? Lees dan deze blog.",
+        "description":"Deze blog is voor mijn mede moslims. Als moslim was het moeilijk om goeie eet plaatsen te vinden online het leek er naar uit dat we niet te veel halal opties hadden. Maar omdat wij heel veel hadden gestapt hebben we toch een paar plaatsen toevallig ontdekt diet niet eens op google maps stonden. Ten eerste zijn er heel veel Asian eet plaatsen waar er altijd veel veggie options zijn. Dus als je 1 ziet gewoon naar binnen gaan ze zijn allemaal goed. Bij de tapas hebben we alleen zeedieren gegeten wat ook heel lekker was. Dus je moet niet denken dat je de tapas beter skipt het is het zeker waard! We hebben ook burger plaats gevonden en steakhouse die compleet halal waren. Ook zijn er veel pizza en pasta plaatsen. Dus als moslim is barcelona zeker bezoekbaar en kan je gegarandeerd goed eten. ",
+        "cover":"../images/pizza.jpg",
+        "album":{
+            "image1":"../images/koffie.jpg",
+            "image2":"../images/spiegel.jpg",
+            "image3":"../images/straat.jpg",
+            "image4":"../images/tapas.jpg",
+            "image5":"../images/vlag.jpg"
+        }
+        
+    }
+]
